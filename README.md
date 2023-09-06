@@ -9,7 +9,7 @@ Conducted comprehensive data preprocessing on a large dataset containing demogra
 
 Employed data visualization techniques to gain insights into the relationships between music preferences, daily activity patterns, and mental health outcomes, aiding in feature selection and model interpretation.
 
-Utilized linear regression as the primary machine learning algorithm to build a predictive model for mental health rankings based on input features.
+Utilized  Neural network and linear regression algorithms to build a predictive model for mental health rankings based on input features.
 
 Achieved a high-performing predictive model with an emphasis on interpretability, enabling stakeholders to understand the key factors influencing mental health outcomes.
 
