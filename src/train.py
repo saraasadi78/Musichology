@@ -367,6 +367,25 @@ def tune_best_model(
     output_dir = Path(models_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     joblib.dump(artifact, output_dir / "best_model.joblib")
+    target_models = {}
+    for target_name, target in targets.items():
+        target_pipeline = make_pipeline(
+            features,
+            model_name,
+            random_state,
+            tuned_params,
+        )
+        target_pipeline.fit(features.loc[target.index], target)
+        target_models[target_name] = target_pipeline
+    joblib.dump(
+        {
+            "models": target_models,
+            "features": features.columns.tolist(),
+            "model_name": model_name,
+            "params": tuned_params,
+        },
+        output_dir / "target_models.joblib",
+    )
     return study, artifact
 
 

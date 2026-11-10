@@ -23,3 +23,16 @@ Demonstrated proficiency in data science methodologies, including data preproces
 - Cross-validated RMSE was **2.73** for Anxiety, **2.91** for Depression, **3.08** for Insomnia, and **2.83** for OCD on the 0–10 self-reported scales.
 - SHAP explanations identified age, hours listened per day, BPM, and genre-frequency indicators as the most influential features. The strongest features differed by target, with age prominent for Anxiety and Depression and listening hours prominent for Insomnia and OCD.
 - These are predictive associations in a self-reported survey, not evidence that music habits cause changes in mental health.
+
+## Run the prediction apps
+
+Generate the persisted multi-target model bundle before starting an app:
+
+```bash
+python -m src.train
+uvicorn app.api:app --reload
+# or, in another terminal:
+streamlit run app/streamlit_app.py
+```
+
+Both interfaces display the same disclaimer: this project is not a diagnostic tool.
