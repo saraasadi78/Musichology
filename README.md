@@ -16,3 +16,10 @@ Achieved a high-performing predictive model with an emphasis on interpretability
 Implemented the model into a practical tool for real-time predictions, enhancing the project's practicality and usability.
 
 Demonstrated proficiency in data science methodologies, including data preprocessing, exploratory data analysis, machine learning, and model deployment, contributing to the project's success.
+
+## Key findings
+
+- The tuned Random Forest was the strongest overall model in five-fold cross-validation, but predictive signal was limited: R² was **0.04** for Anxiety, **0.07** for Depression, **-0.02** for Insomnia, and **-0.00** for OCD.
+- Cross-validated RMSE was **2.73** for Anxiety, **2.91** for Depression, **3.08** for Insomnia, and **2.83** for OCD on the 0–10 self-reported scales.
+- SHAP explanations identified age, hours listened per day, BPM, and genre-frequency indicators as the most influential features. The strongest features differed by target, with age prominent for Anxiety and Depression and listening hours prominent for Insomnia and OCD.
+- These are predictive associations in a self-reported survey, not evidence that music habits cause changes in mental health.
