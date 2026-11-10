@@ -24,6 +24,25 @@ Demonstrated proficiency in data science methodologies, including data preproces
 - SHAP explanations identified age, hours listened per day, BPM, and genre-frequency indicators as the most influential features. The strongest features differed by target, with age prominent for Anxiety and Depression and listening hours prominent for Insomnia and OCD.
 - These are predictive associations in a self-reported survey, not evidence that music habits cause changes in mental health.
 
+## Model interpretability visualizations
+
+The global SHAP plots below rank the encoded survey features by their average
+impact on each target model. Larger mean absolute SHAP values indicate greater
+influence on predictions, not causation.
+
+| Anxiety | Depression |
+| --- | --- |
+| ![Anxiety global SHAP feature importance](results/figures/anxiety_global_importance.png) | ![Depression global SHAP feature importance](results/figures/depression_global_importance.png) |
+
+| Insomnia | OCD |
+| --- | --- |
+| ![Insomnia global SHAP feature importance](results/figures/insomnia_global_importance.png) | ![OCD global SHAP feature importance](results/figures/ocd_global_importance.png) |
+
+Per-prediction waterfall explanations are available for [Anxiety](results/figures/anxiety_prediction_0.png),
+[Depression](results/figures/depression_prediction_0.png),
+[Insomnia](results/figures/insomnia_prediction_0.png), and
+[OCD](results/figures/ocd_prediction_0.png).
+
 ## Run the prediction apps
 
 Generate the persisted multi-target model bundle before starting an app:
