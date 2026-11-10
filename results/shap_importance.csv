@@ -1,0 +1,409 @@
+target,feature,mean_abs_shap
+Anxiety,numeric__Age,0.23658290855958097
+Anxiety,categorical__Frequency [Folk]_Never,0.20715087707894608
+Anxiety,categorical__Music effects_No effect,0.1449825320500563
+Anxiety,numeric__Hours per day,0.08132976043129138
+Anxiety,categorical__Frequency [Metal]_Sometimes,0.07134591780491417
+Anxiety,numeric__BPM,0.05220282639637554
+Anxiety,categorical__Frequency [Pop]_Never,0.04010521211948797
+Anxiety,categorical__Frequency [Metal]_Very frequently,0.03895975178510642
+Anxiety,categorical__Frequency [Metal]_Never,0.03626655845971942
+Anxiety,categorical__Fav genre_Rock,0.03625558182450652
+Anxiety,categorical__Frequency [Lofi]_Sometimes,0.0329642393888484
+Anxiety,categorical__Frequency [Rock]_Very frequently,0.03195204044269582
+Anxiety,categorical__Frequency [Rock]_Rarely,0.03194564698504308
+Anxiety,categorical__Frequency [R&B]_Never,0.026148602894612787
+Anxiety,categorical__Frequency [Rap]_Rarely,0.023204905832099013
+Anxiety,categorical__Music effects_Improve,0.02274480227310762
+Anxiety,categorical__Frequency [Latin]_Never,0.021505348013836374
+Anxiety,categorical__Frequency [R&B]_Rarely,0.018702613740009363
+Anxiety,categorical__Frequency [Country]_Rarely,0.01781257993694808
+Anxiety,categorical__Frequency [Rap]_Never,0.017353121899703422
+Anxiety,categorical__Frequency [Jazz]_Rarely,0.017230808263023818
+Anxiety,categorical__Frequency [Latin]_Rarely,0.016659294365460244
+Anxiety,categorical__Frequency [Classical]_Very frequently,0.016656036113949
+Anxiety,categorical__Frequency [Classical]_Sometimes,0.016490522816001135
+Anxiety,categorical__Frequency [Folk]_Sometimes,0.015917024861243932
+Anxiety,categorical__Frequency [Video game music]_Rarely,0.012902659579331554
+Anxiety,categorical__Fav genre_Pop,0.012867189781324622
+Anxiety,categorical__Exploratory_Yes,0.01282334664270029
+Anxiety,categorical__Foreign languages_Yes,0.011768527853674512
+Anxiety,categorical__Fav genre_EDM,0.011154045498608904
+Anxiety,categorical__Frequency [EDM]_Rarely,0.010787616343379883
+Anxiety,categorical__Frequency [Gospel]_Never,0.010354651280272076
+Anxiety,categorical__Primary streaming service_YouTube Music,0.009418941165745901
+Anxiety,categorical__Frequency [Metal]_Rarely,0.009356356302178426
+Anxiety,categorical__Exploratory_No,0.009320147331460324
+Anxiety,categorical__Frequency [Hip hop]_Sometimes,0.008139851604100454
+Anxiety,categorical__Frequency [Lofi]_Very frequently,0.00795466587573372
+Anxiety,categorical__Frequency [Lofi]_Rarely,0.007943632821915061
+Anxiety,categorical__Frequency [K pop]_Never,0.007529433219501108
+Anxiety,categorical__Frequency [Country]_Never,0.007439846088858284
+Anxiety,categorical__Frequency [EDM]_Never,0.0074120646889882045
+Anxiety,categorical__Fav genre_Video game music,0.007306017633229351
+Anxiety,categorical__Frequency [K pop]_Rarely,0.007283791548588439
+Anxiety,categorical__Frequency [Country]_Sometimes,0.007125119764047236
+Anxiety,categorical__Primary streaming service_Spotify,0.006806423056119144
+Anxiety,categorical__Frequency [Classical]_Never,0.006372138157128025
+Anxiety,categorical__Foreign languages_No,0.006211682767165571
+Anxiety,categorical__Frequency [Gospel]_Sometimes,0.006119055230148029
+Anxiety,categorical__Frequency [Pop]_Rarely,0.005900722261996794
+Anxiety,categorical__Frequency [Pop]_Sometimes,0.005769550843792585
+Anxiety,categorical__Frequency [K pop]_Sometimes,0.005544202417072286
+Anxiety,categorical__Frequency [Video game music]_Very frequently,0.005466724517082183
+Anxiety,categorical__Primary streaming service_Other streaming service,0.005262618498616421
+Anxiety,categorical__Frequency [Rap]_Very frequently,0.005190179962851883
+Anxiety,categorical__Fav genre_Classical,0.005178613337134068
+Anxiety,categorical__Frequency [Hip hop]_Rarely,0.005178357292909067
+Anxiety,categorical__Frequency [Classical]_Rarely,0.00509630044763704
+Anxiety,categorical__Fav genre_Metal,0.005028039193194946
+Anxiety,categorical__Frequency [Rap]_Sometimes,0.0049434599853932166
+Anxiety,categorical__Frequency [Rock]_Sometimes,0.004918974700728507
+Anxiety,categorical__Frequency [Jazz]_Never,0.0045793465346935635
+Anxiety,categorical__Fav genre_Country,0.004508836743331763
+Anxiety,categorical__Composer_Yes,0.004412187520675498
+Anxiety,categorical__Frequency [Video game music]_Never,0.004270788166578199
+Anxiety,categorical__Frequency [Pop]_Very frequently,0.004035704599542913
+Anxiety,categorical__Frequency [Folk]_Very frequently,0.00397797490327123
+Anxiety,categorical__Primary streaming service_Apple Music,0.003791349176860779
+Anxiety,categorical__Frequency [Lofi]_Never,0.0034611696420423607
+Anxiety,categorical__Frequency [Folk]_Rarely,0.003398209401749505
+Anxiety,categorical__Frequency [Jazz]_Sometimes,0.003348745382708843
+Anxiety,categorical__Frequency [Rock]_Never,0.003348083377811194
+Anxiety,categorical__Frequency [Country]_Very frequently,0.0032180201170534848
+Anxiety,categorical__Instrumentalist_Yes,0.0032020759162981506
+Anxiety,categorical__Frequency [Gospel]_Rarely,0.0031779115250205716
+Anxiety,categorical__Frequency [Video game music]_Sometimes,0.002973455706266929
+Anxiety,categorical__Frequency [Hip hop]_Never,0.002503692804368813
+Anxiety,categorical__Frequency [R&B]_Very frequently,0.002314700752387345
+Anxiety,categorical__Frequency [EDM]_Sometimes,0.002247220074336243
+Anxiety,categorical__Frequency [Latin]_Sometimes,0.0022400640569001395
+Anxiety,categorical__Instrumentalist_No,0.0021889287346557084
+Anxiety,categorical__Frequency [R&B]_Sometimes,0.0016906167515982973
+Anxiety,categorical__Frequency [K pop]_Very frequently,0.0016819858612649604
+Anxiety,categorical__Frequency [EDM]_Very frequently,0.0014687109456890145
+Anxiety,categorical__Primary streaming service_I do not use a streaming service.,0.0013307033044408026
+Anxiety,categorical__While working_No,0.0013092807499568788
+Anxiety,categorical__Composer_No,0.001296133830993588
+Anxiety,categorical__Frequency [Hip hop]_Very frequently,0.001263349533541972
+Anxiety,categorical__While working_Yes,0.001255341996015293
+Anxiety,categorical__Fav genre_Folk,0.0008718386271649913
+Anxiety,categorical__Frequency [Latin]_Very frequently,0.000811601282899653
+Anxiety,categorical__Fav genre_R&B,0.0004759861249445032
+Anxiety,categorical__Music effects_Worsen,0.00043458376763500574
+Anxiety,categorical__Frequency [Jazz]_Very frequently,0.000314615888425536
+Anxiety,categorical__Fav genre_Rap,0.00022735516575187815
+Anxiety,categorical__Fav genre_K pop,0.00021137833635135562
+Anxiety,categorical__Frequency [Gospel]_Very frequently,7.355192822971098e-05
+Anxiety,categorical__Fav genre_Gospel,0.0
+Anxiety,categorical__Fav genre_Hip hop,0.0
+Anxiety,categorical__Fav genre_Lofi,0.0
+Anxiety,categorical__Fav genre_Latin,0.0
+Anxiety,categorical__Fav genre_Jazz,0.0
+Anxiety,categorical__Primary streaming service_Pandora,0.0
+Depression,categorical__Frequency [Metal]_Never,0.40231220769493203
+Depression,numeric__Age,0.2707512473059948
+Depression,categorical__Frequency [Hip hop]_Never,0.16141802565077962
+Depression,categorical__Frequency [Rap]_Never,0.15892033306455003
+Depression,numeric__Hours per day,0.10579601332364084
+Depression,categorical__Frequency [Rock]_Very frequently,0.08338878388219108
+Depression,numeric__BPM,0.06107539771584332
+Depression,categorical__Frequency [EDM]_Rarely,0.04533509989451968
+Depression,categorical__Primary streaming service_Spotify,0.044671645379079694
+Depression,categorical__Music effects_No effect,0.04206192334815404
+Depression,categorical__Fav genre_Rock,0.03276114705665117
+Depression,categorical__Frequency [Rock]_Rarely,0.030372147079917866
+Depression,categorical__Frequency [Country]_Never,0.029477813222274583
+Depression,categorical__Music effects_Worsen,0.029284339895591045
+Depression,categorical__Frequency [Rock]_Never,0.029037357571258186
+Depression,categorical__Frequency [EDM]_Never,0.027500566634699155
+Depression,categorical__Frequency [Jazz]_Rarely,0.025700915164094597
+Depression,categorical__Frequency [Country]_Sometimes,0.022815398557405466
+Depression,categorical__Frequency [R&B]_Rarely,0.02229688135453412
+Depression,categorical__Frequency [Folk]_Never,0.022273468800055467
+Depression,categorical__Primary streaming service_YouTube Music,0.020882668224654167
+Depression,categorical__Frequency [Pop]_Very frequently,0.019518283809640068
+Depression,categorical__Frequency [Lofi]_Very frequently,0.019191271426542828
+Depression,categorical__Frequency [R&B]_Never,0.01446490649065512
+Depression,categorical__Frequency [K pop]_Rarely,0.014012052068221
+Depression,categorical__Frequency [Video game music]_Sometimes,0.013220514263462262
+Depression,categorical__Frequency [Classical]_Rarely,0.012999782780508496
+Depression,categorical__Frequency [Rock]_Sometimes,0.011976831624168016
+Depression,categorical__Foreign languages_Yes,0.010157703186580515
+Depression,categorical__Frequency [Video game music]_Rarely,0.010051053519412597
+Depression,categorical__Frequency [Metal]_Sometimes,0.009998079832177764
+Depression,categorical__Frequency [Pop]_Sometimes,0.009328975045799109
+Depression,categorical__Frequency [Jazz]_Never,0.0091402711374659
+Depression,categorical__Frequency [Folk]_Very frequently,0.008963295292960539
+Depression,categorical__Frequency [Video game music]_Very frequently,0.008571897089593975
+Depression,categorical__Primary streaming service_I do not use a streaming service.,0.00856639399846719
+Depression,categorical__Frequency [Hip hop]_Very frequently,0.008562035815732238
+Depression,categorical__Frequency [Hip hop]_Rarely,0.008431764313281744
+Depression,categorical__Instrumentalist_No,0.007591665027556027
+Depression,categorical__Frequency [Hip hop]_Sometimes,0.007244622414554731
+Depression,categorical__Frequency [Classical]_Sometimes,0.006842709844087706
+Depression,categorical__Frequency [K pop]_Very frequently,0.006704490600553504
+Depression,categorical__Frequency [Pop]_Rarely,0.006551488335178324
+Depression,categorical__Foreign languages_No,0.006278913220374735
+Depression,categorical__Frequency [K pop]_Sometimes,0.0062466633008756225
+Depression,categorical__Frequency [Folk]_Sometimes,0.006235666625535963
+Depression,categorical__Frequency [Rap]_Sometimes,0.006036023008752991
+Depression,categorical__Frequency [Rap]_Rarely,0.005779746939100259
+Depression,categorical__Frequency [Jazz]_Sometimes,0.005524477828098698
+Depression,categorical__While working_No,0.00547717954110339
+Depression,categorical__Frequency [Gospel]_Never,0.005277333729275247
+Depression,categorical__Music effects_Improve,0.005206359629681412
+Depression,categorical__Frequency [Lofi]_Rarely,0.005121578658153067
+Depression,categorical__Frequency [Lofi]_Sometimes,0.004914968501101133
+Depression,categorical__Composer_Yes,0.00475447385157682
+Depression,categorical__Fav genre_EDM,0.004659695204783684
+Depression,categorical__Frequency [EDM]_Very frequently,0.004299113717905761
+Depression,categorical__Frequency [Metal]_Very frequently,0.004220579761015115
+Depression,categorical__Frequency [Folk]_Rarely,0.004177667251561895
+Depression,categorical__Frequency [R&B]_Very frequently,0.004067901024954273
+Depression,categorical__Fav genre_Pop,0.003995827445855272
+Depression,categorical__Frequency [Rap]_Very frequently,0.003995642515811474
+Depression,categorical__Frequency [Latin]_Rarely,0.003929311952864661
+Depression,categorical__Frequency [Classical]_Never,0.0037151548426936636
+Depression,categorical__Frequency [K pop]_Never,0.00366063636394638
+Depression,categorical__Frequency [Video game music]_Never,0.0036160434670374194
+Depression,categorical__Frequency [Lofi]_Never,0.003609516421601772
+Depression,categorical__Frequency [Metal]_Rarely,0.003574681327208169
+Depression,categorical__Frequency [Pop]_Never,0.0035211707600600354
+Depression,categorical__Fav genre_Hip hop,0.003451937500095757
+Depression,categorical__Frequency [Latin]_Never,0.003273267930556793
+Depression,categorical__Composer_No,0.0032664981992195914
+Depression,categorical__While working_Yes,0.0032145577403895494
+Depression,categorical__Frequency [R&B]_Sometimes,0.002830074234071102
+Depression,categorical__Fav genre_R&B,0.002757299750804951
+Depression,categorical__Instrumentalist_Yes,0.0026421649670539953
+Depression,categorical__Frequency [Jazz]_Very frequently,0.0025762160134945584
+Depression,categorical__Exploratory_No,0.0023800291719785665
+Depression,categorical__Frequency [Gospel]_Sometimes,0.002370356956947073
+Depression,categorical__Frequency [Country]_Rarely,0.0022231208314139194
+Depression,categorical__Frequency [Classical]_Very frequently,0.00216136940594958
+Depression,categorical__Exploratory_Yes,0.00199001486838508
+Depression,categorical__Frequency [Latin]_Sometimes,0.0019075079339733742
+Depression,categorical__Frequency [Gospel]_Rarely,0.0013599420900347616
+Depression,categorical__Primary streaming service_Other streaming service,0.001292265950050536
+Depression,categorical__Primary streaming service_Apple Music,0.001220904408615435
+Depression,categorical__Frequency [EDM]_Sometimes,0.000963802933765693
+Depression,categorical__Fav genre_Rap,0.000758420511217441
+Depression,categorical__Frequency [Country]_Very frequently,0.0007389219134758749
+Depression,categorical__Fav genre_Metal,0.0006373481578615933
+Depression,categorical__Fav genre_Video game music,0.0004699356838334415
+Depression,categorical__Fav genre_Classical,0.0003735251815329404
+Depression,categorical__Frequency [Latin]_Very frequently,0.0003368174261824738
+Depression,categorical__Fav genre_Lofi,0.0001480393523904596
+Depression,categorical__Fav genre_Country,0.00011419263981540878
+Depression,categorical__Fav genre_Folk,5.355507975606159e-05
+Depression,categorical__Frequency [Gospel]_Very frequently,0.0
+Depression,categorical__Fav genre_Jazz,0.0
+Depression,categorical__Fav genre_Gospel,0.0
+Depression,categorical__Fav genre_Latin,0.0
+Depression,categorical__Fav genre_K pop,0.0
+Depression,categorical__Primary streaming service_Pandora,0.0
+Insomnia,numeric__Hours per day,0.3960664987104819
+Insomnia,categorical__Frequency [Metal]_Never,0.14582327010472557
+Insomnia,numeric__Age,0.12643422478041574
+Insomnia,numeric__BPM,0.10581704300346771
+Insomnia,categorical__Frequency [R&B]_Sometimes,0.08283529822922897
+Insomnia,categorical__Frequency [Metal]_Sometimes,0.047827314937471624
+Insomnia,categorical__Frequency [Jazz]_Very frequently,0.04179103781417524
+Insomnia,categorical__Frequency [Classical]_Very frequently,0.039889504242528726
+Insomnia,categorical__Frequency [Hip hop]_Rarely,0.03891260473259512
+Insomnia,categorical__Frequency [Rap]_Rarely,0.0349703879558892
+Insomnia,categorical__Frequency [Video game music]_Very frequently,0.03366156332764624
+Insomnia,categorical__Frequency [Rap]_Never,0.031807883494969685
+Insomnia,categorical__Frequency [R&B]_Very frequently,0.03180101713507574
+Insomnia,categorical__Frequency [EDM]_Rarely,0.03091484890799585
+Insomnia,categorical__Fav genre_Metal,0.02816976386600481
+Insomnia,categorical__Frequency [Video game music]_Rarely,0.02732391358258532
+Insomnia,categorical__Frequency [Metal]_Very frequently,0.02728136318910754
+Insomnia,categorical__Frequency [EDM]_Never,0.024281676489137646
+Insomnia,categorical__Composer_No,0.023244137701246052
+Insomnia,categorical__Frequency [Country]_Never,0.023037477513558252
+Insomnia,categorical__Frequency [Folk]_Rarely,0.022923934722291005
+Insomnia,categorical__Frequency [Folk]_Never,0.02197378709441062
+Insomnia,categorical__Frequency [Country]_Rarely,0.02069927861105162
+Insomnia,categorical__Frequency [EDM]_Very frequently,0.020419908629864963
+Insomnia,categorical__Primary streaming service_YouTube Music,0.020047590195903388
+Insomnia,categorical__Frequency [Lofi]_Never,0.017736553672266783
+Insomnia,categorical__Frequency [Video game music]_Sometimes,0.016971173352047536
+Insomnia,categorical__Composer_Yes,0.016556256786199593
+Insomnia,categorical__Frequency [Classical]_Rarely,0.01613168723166323
+Insomnia,categorical__Frequency [Latin]_Never,0.01602874290182024
+Insomnia,categorical__Frequency [Hip hop]_Never,0.014570198644804133
+Insomnia,categorical__Frequency [Latin]_Rarely,0.012480056375100945
+Insomnia,categorical__Frequency [Folk]_Sometimes,0.01194690378170812
+Insomnia,categorical__Frequency [Gospel]_Never,0.011926753520958068
+Insomnia,categorical__Frequency [Country]_Sometimes,0.010925044126720622
+Insomnia,categorical__Frequency [Hip hop]_Sometimes,0.010033994296697895
+Insomnia,categorical__Frequency [Metal]_Rarely,0.010003009910556892
+Insomnia,categorical__Frequency [Pop]_Sometimes,0.009897614972367037
+Insomnia,categorical__Fav genre_R&B,0.009863834190266221
+Insomnia,categorical__Frequency [Latin]_Sometimes,0.009433199763461348
+Insomnia,categorical__Frequency [Gospel]_Rarely,0.009216630241977409
+Insomnia,categorical__Frequency [Jazz]_Sometimes,0.008424251204913405
+Insomnia,categorical__Fav genre_Rap,0.008202975815825688
+Insomnia,categorical__Music effects_No effect,0.008192311101234622
+Insomnia,categorical__Frequency [Pop]_Never,0.007934918798346183
+Insomnia,categorical__Frequency [R&B]_Rarely,0.007301019865852172
+Insomnia,categorical__Frequency [Rock]_Never,0.0071790577270135275
+Insomnia,categorical__Frequency [Folk]_Very frequently,0.007104033420795449
+Insomnia,categorical__Frequency [Hip hop]_Very frequently,0.005965593705100013
+Insomnia,categorical__Frequency [Lofi]_Very frequently,0.005891065293363562
+Insomnia,categorical__Primary streaming service_I do not use a streaming service.,0.005771722956967256
+Insomnia,categorical__Music effects_Improve,0.005635687557866497
+Insomnia,categorical__Exploratory_Yes,0.005611412986482208
+Insomnia,categorical__Frequency [Country]_Very frequently,0.005419969202499175
+Insomnia,categorical__Frequency [Rock]_Sometimes,0.005411776130711822
+Insomnia,categorical__Exploratory_No,0.005285841397211227
+Insomnia,categorical__Frequency [Pop]_Very frequently,0.0052811208704623925
+Insomnia,categorical__Frequency [K pop]_Never,0.004933316208259142
+Insomnia,categorical__Frequency [Video game music]_Never,0.0049317970255701215
+Insomnia,categorical__Primary streaming service_Spotify,0.004911406900389761
+Insomnia,categorical__Frequency [R&B]_Never,0.004907993344812026
+Insomnia,categorical__Frequency [K pop]_Rarely,0.0047607482452922695
+Insomnia,categorical__Frequency [Classical]_Sometimes,0.004599150220398724
+Insomnia,categorical__Primary streaming service_Other streaming service,0.0044816456127832905
+Insomnia,categorical__Music effects_Worsen,0.0043835102169530625
+Insomnia,categorical__Fav genre_Classical,0.004154891545818118
+Insomnia,categorical__Frequency [Rap]_Sometimes,0.003931048804233011
+Insomnia,categorical__Frequency [Rock]_Very frequently,0.003878301741219332
+Insomnia,categorical__Frequency [Pop]_Rarely,0.0037779201152700463
+Insomnia,categorical__Frequency [Rock]_Rarely,0.0033721696123721703
+Insomnia,categorical__Fav genre_Rock,0.0033314805273974564
+Insomnia,categorical__Frequency [EDM]_Sometimes,0.003281080027660285
+Insomnia,categorical__Instrumentalist_No,0.003279374224213594
+Insomnia,categorical__Frequency [Jazz]_Rarely,0.0032721442335737886
+Insomnia,categorical__Frequency [Jazz]_Never,0.003232092849524353
+Insomnia,categorical__Frequency [Gospel]_Sometimes,0.00317929823900514
+Insomnia,categorical__Frequency [Lofi]_Rarely,0.0031334600291053117
+Insomnia,categorical__Instrumentalist_Yes,0.002998717160157273
+Insomnia,categorical__Frequency [Classical]_Never,0.002906729020565446
+Insomnia,categorical__Fav genre_Pop,0.002882094343619786
+Insomnia,categorical__Foreign languages_No,0.00280847506544828
+Insomnia,categorical__Frequency [Rap]_Very frequently,0.0027530388792547456
+Insomnia,categorical__Foreign languages_Yes,0.002391849226981166
+Insomnia,categorical__Frequency [Lofi]_Sometimes,0.002081407146618442
+Insomnia,categorical__Frequency [K pop]_Very frequently,0.0017189528228561332
+Insomnia,categorical__Fav genre_Video game music,0.0016352377708845668
+Insomnia,categorical__Frequency [K pop]_Sometimes,0.0014514224336131584
+Insomnia,categorical__While working_No,0.0012711376505457454
+Insomnia,categorical__While working_Yes,0.0012283648824584655
+Insomnia,categorical__Primary streaming service_Apple Music,0.00098469711484738
+Insomnia,categorical__Fav genre_Jazz,0.0008363180954003585
+Insomnia,categorical__Fav genre_Hip hop,0.0007523585772951618
+Insomnia,categorical__Fav genre_EDM,0.0007339019662199656
+Insomnia,categorical__Fav genre_Lofi,0.0006200873565641181
+Insomnia,categorical__Primary streaming service_Pandora,0.0004319448003155664
+Insomnia,categorical__Frequency [Gospel]_Very frequently,0.0003451122249648677
+Insomnia,categorical__Fav genre_Country,0.000307189425543387
+Insomnia,categorical__Frequency [Latin]_Very frequently,0.0002051209852810571
+Insomnia,categorical__Fav genre_K pop,0.00019472528591232604
+Insomnia,categorical__Fav genre_Folk,0.00017227129167978513
+Insomnia,categorical__Fav genre_Gospel,8.884798036888241e-05
+Insomnia,categorical__Fav genre_Latin,0.0
+OCD,numeric__Hours per day,0.19093430050289822
+OCD,numeric__Age,0.16191598164445029
+OCD,numeric__BPM,0.05591647044667778
+OCD,categorical__Frequency [EDM]_Never,0.05257441179079807
+OCD,categorical__Frequency [R&B]_Sometimes,0.05255438023859818
+OCD,categorical__Frequency [Country]_Never,0.042021777713534034
+OCD,categorical__Frequency [R&B]_Very frequently,0.042011318686997944
+OCD,categorical__Frequency [Country]_Sometimes,0.03808209570785672
+OCD,categorical__Frequency [R&B]_Rarely,0.036767149147486154
+OCD,categorical__Frequency [Folk]_Sometimes,0.03009795875317223
+OCD,categorical__Foreign languages_Yes,0.028081848041973976
+OCD,categorical__Frequency [EDM]_Very frequently,0.027113995807943426
+OCD,categorical__Foreign languages_No,0.023461736275205175
+OCD,categorical__Primary streaming service_Spotify,0.023206285673234586
+OCD,categorical__Frequency [Hip hop]_Rarely,0.021781448316910215
+OCD,categorical__Frequency [Rap]_Rarely,0.021580139396394592
+OCD,categorical__Frequency [Folk]_Rarely,0.020241659122241247
+OCD,categorical__Frequency [Gospel]_Rarely,0.019489270602104196
+OCD,categorical__Frequency [Lofi]_Sometimes,0.018985917279639365
+OCD,categorical__Frequency [Classical]_Sometimes,0.01882959305815843
+OCD,categorical__Frequency [Pop]_Rarely,0.01675392948905226
+OCD,categorical__Frequency [Latin]_Never,0.01594498890773732
+OCD,categorical__Frequency [Video game music]_Never,0.015428310672972383
+OCD,categorical__Frequency [Metal]_Sometimes,0.015305703088985323
+OCD,categorical__Frequency [Gospel]_Never,0.014919446934902197
+OCD,categorical__Frequency [Country]_Rarely,0.014450362553226095
+OCD,categorical__Frequency [Folk]_Never,0.014089677648317978
+OCD,categorical__Frequency [Rock]_Rarely,0.014051103352253846
+OCD,categorical__Frequency [EDM]_Rarely,0.013910172825150337
+OCD,categorical__Frequency [R&B]_Never,0.013841671718431555
+OCD,categorical__Frequency [Rock]_Never,0.013228164207966193
+OCD,categorical__Fav genre_Pop,0.012112839806205287
+OCD,categorical__Frequency [Rap]_Sometimes,0.011448465617158936
+OCD,categorical__Frequency [Hip hop]_Sometimes,0.010524815292554428
+OCD,categorical__Frequency [Rock]_Sometimes,0.01041801083626948
+OCD,categorical__Frequency [Jazz]_Never,0.009782216898596168
+OCD,categorical__While working_No,0.009077833020850771
+OCD,categorical__Frequency [EDM]_Sometimes,0.009014463853546534
+OCD,categorical__Frequency [Rock]_Very frequently,0.008909246853979863
+OCD,categorical__Music effects_No effect,0.008479823689073547
+OCD,categorical__Frequency [Classical]_Rarely,0.008261353859520365
+OCD,categorical__Frequency [Metal]_Very frequently,0.008173360593392399
+OCD,categorical__Fav genre_Metal,0.008051375226690572
+OCD,categorical__While working_Yes,0.008036068015950224
+OCD,categorical__Primary streaming service_YouTube Music,0.007967987371638553
+OCD,categorical__Music effects_Improve,0.006761514911400492
+OCD,categorical__Exploratory_No,0.006715699810010399
+OCD,categorical__Frequency [Pop]_Never,0.006397046074994447
+OCD,categorical__Fav genre_Rock,0.006395175516709897
+OCD,categorical__Frequency [Pop]_Very frequently,0.006381070626765034
+OCD,categorical__Frequency [Metal]_Never,0.006368444023202719
+OCD,categorical__Frequency [Jazz]_Rarely,0.005591627267083464
+OCD,categorical__Frequency [Hip hop]_Very frequently,0.005513103801559624
+OCD,categorical__Frequency [Video game music]_Rarely,0.005437360790079847
+OCD,categorical__Frequency [Latin]_Rarely,0.005399187595954255
+OCD,categorical__Exploratory_Yes,0.005359444675122099
+OCD,categorical__Frequency [Lofi]_Never,0.005332535184299715
+OCD,categorical__Frequency [Pop]_Sometimes,0.005261808922603392
+OCD,categorical__Frequency [Classical]_Never,0.0051094417598722495
+OCD,categorical__Frequency [K pop]_Very frequently,0.005041482720565831
+OCD,categorical__Frequency [Jazz]_Sometimes,0.004463849029234356
+OCD,categorical__Frequency [Metal]_Rarely,0.004440346395295496
+OCD,categorical__Composer_No,0.004130908755240574
+OCD,categorical__Frequency [Lofi]_Rarely,0.003950091647451025
+OCD,categorical__Frequency [K pop]_Rarely,0.003948881919876859
+OCD,categorical__Primary streaming service_Other streaming service,0.0037939963028319956
+OCD,categorical__Frequency [K pop]_Never,0.0035754278371432913
+OCD,categorical__Frequency [Video game music]_Very frequently,0.0032977021028336383
+OCD,categorical__Frequency [Rap]_Very frequently,0.00308211928093244
+OCD,categorical__Instrumentalist_No,0.0028903207260108253
+OCD,categorical__Frequency [Lofi]_Very frequently,0.00287586540951491
+OCD,categorical__Fav genre_Hip hop,0.0028267865259445184
+OCD,categorical__Frequency [Jazz]_Very frequently,0.0028013462403756154
+OCD,categorical__Frequency [Video game music]_Sometimes,0.0025748209110857405
+OCD,categorical__Primary streaming service_Apple Music,0.00257448821677233
+OCD,categorical__Frequency [Latin]_Very frequently,0.0025727493284711765
+OCD,categorical__Frequency [Latin]_Sometimes,0.002548739152420455
+OCD,categorical__Frequency [Rap]_Never,0.0024591823541038095
+OCD,categorical__Composer_Yes,0.0022403335786143406
+OCD,categorical__Frequency [Classical]_Very frequently,0.0021819073299981107
+OCD,categorical__Frequency [Folk]_Very frequently,0.0018572072079045333
+OCD,categorical__Primary streaming service_I do not use a streaming service.,0.0017891279560155015
+OCD,categorical__Frequency [Hip hop]_Never,0.00168766716177031
+OCD,categorical__Fav genre_EDM,0.0016319804307125215
+OCD,categorical__Frequency [Gospel]_Sometimes,0.00162626333845844
+OCD,categorical__Instrumentalist_Yes,0.0014300907067599457
+OCD,categorical__Frequency [Country]_Very frequently,0.001288714258756083
+OCD,categorical__Fav genre_R&B,0.0011235953217878303
+OCD,categorical__Fav genre_K pop,0.0009750271264135299
+OCD,categorical__Frequency [K pop]_Sometimes,0.0009634007484660486
+OCD,categorical__Music effects_Worsen,0.0009485988869425413
+OCD,categorical__Fav genre_Classical,0.0008924341215567
+OCD,categorical__Fav genre_Folk,0.0008751890545096567
+OCD,categorical__Fav genre_Jazz,0.0007795581279977959
+OCD,categorical__Fav genre_Country,0.0004193945851306079
+OCD,categorical__Fav genre_Rap,0.0002331150323437243
+OCD,categorical__Fav genre_Video game music,0.00021473938890741672
+OCD,categorical__Fav genre_Lofi,0.0001668587512572033
+OCD,categorical__Primary streaming service_Pandora,3.8728157082716645e-05
+OCD,categorical__Frequency [Gospel]_Very frequently,0.0
+OCD,categorical__Fav genre_Gospel,0.0
+OCD,categorical__Fav genre_Latin,0.0

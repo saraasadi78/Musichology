@@ -7,3 +7,5 @@ joblib
 optuna
 xgboost
 lightgbm
+shap
+matplotlib
