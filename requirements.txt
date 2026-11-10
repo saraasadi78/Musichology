@@ -9,3 +9,6 @@ xgboost
 lightgbm
 shap
 matplotlib
+fastapi
+uvicorn
+streamlit
